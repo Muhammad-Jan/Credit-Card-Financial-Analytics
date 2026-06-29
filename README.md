@@ -266,7 +266,7 @@ The dashboard includes:
 
 - Retain high-value customers using loyalty programs.
 - Increase digital payment adoption through cashback offers.
-- Launch personalized marketing campaigns.
+- Use personalized marketing for better engagement.
 - Improve customer engagement using category-based rewards.
 - Strengthen customer retention strategies.
 - Focus marketing efforts on high-performing regions.
